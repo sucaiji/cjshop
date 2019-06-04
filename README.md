@@ -1,4 +1,4 @@
-# cjshop(未完成)
+# cjshop(弃坑)
 为了将新学习的Spring Cloud、Spring Security、Redis融会贯通和学习编写大型商城项目而搭建的微服务商城系统。
 
 ## 系统架构
